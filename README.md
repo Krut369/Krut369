@@ -1,13 +1,13 @@
 # 💫 About Me:  
 
-👋 Hi, I'm **Krutarth Solanki** — a passionate **Mobile, Web, and Cloud Developer** who loves building impactful digital solutions.  
+👋 Hi, I'm **Krutarth Solanki** — a passionate **Mobile, Web, Backend, and Cloud Developer** who loves building impactful and scalable digital solutions.  
 
-🔭 I’m currently working on creating **secure and scalable applications** with Flutter, Supabase, and the MERN stack.  
-👯 I’m looking to collaborate on **mobile, web, and cloud-based projects** that solve real-world challenges.  
-🤝 I’m looking for help with **scaling apps for large audiences** and **optimizing backend performance**.  
+🔭 I’m currently working on developing **secure cross-platform applications** using Flutter, Supabase, and the MERN stack.  
+👯 I’m looking to collaborate on **mobile, web, and backend projects** that solve real-world challenges.  
+🤝 I’m looking for help with **scaling applications**, **optimizing cloud infrastructure**, and **enhancing backend performance**.  
 🌱 I’m currently learning **advanced Flutter, cloud-native development, and modern web frameworks**.  
-💬 Ask me about **cross-platform apps, REST APIs, Flask, Django, and backend integrations**.  
-⚡ Fun fact: I enjoy turning ideas into real products and love experimenting with different tech stacks.  
+💬 Ask me about **cross-platform apps, REST APIs, Flask, Django, backend integrations, and database design**.  
+⚡ Fun fact: I love experimenting with different tech stacks and turning complex ideas into simple, user-friendly products.  
 
 
 ## 🌐 Socials:
