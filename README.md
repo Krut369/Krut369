@@ -1,5 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:  
+
+👋 Hi, I'm **Krutarth Solanki** — a passionate **Mobile, Web, and Cloud Developer** who loves building impactful digital solutions.  
+
+🔭 I’m currently working on creating **secure and scalable applications** with Flutter, Supabase, and the MERN stack.  
+👯 I’m looking to collaborate on **mobile, web, and cloud-based projects** that solve real-world challenges.  
+🤝 I’m looking for help with **scaling apps for large audiences** and **optimizing backend performance**.  
+🌱 I’m currently learning **advanced Flutter, cloud-native development, and modern web frameworks**.  
+💬 Ask me about **cross-platform apps, REST APIs, Flask, Django, and backend integrations**.  
+⚡ Fun fact: I enjoy turning ideas into real products and love experimenting with different tech stacks.  
 
 
 ## 🌐 Socials:
